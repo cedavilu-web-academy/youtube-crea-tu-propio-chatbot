@@ -1,4 +1,4 @@
-<h1>Aquí podrás encontrar todo el código de arranque para que me puedas seguir paso a paso lo que explico en el video</h1>
+<h1>Aquí podrás encontrar todo el código trabajado en la explicación proporcionada en el video</h1>
 
 <br>
 <h2>Descarga la carpeta, y sigue los siguientes pasos:</h2>
